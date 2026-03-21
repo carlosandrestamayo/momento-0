@@ -69,7 +69,7 @@ Las soluciones se encuentran en el archivo `solucionario.pdf`, el cual debe util
 
 ## 🎓 Autor
 
-**Carlos Tamayo**  
+**Carlos Andrés Tamayo Benjumea**  
 Ingeniero de Sistemas  
 Especialista en Inteligencia Artificial  
 Magíster en Educación STEM  
