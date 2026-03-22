@@ -510,7 +510,7 @@ Convertir horas a minutos.
 <img src="resources/images/diagrama_horas_minutos
 .png" alt="Descripción" width="500">
 
-![Texto descriptivo](diagrama_horas_minutos
+![Texto descriptivo](resources/images/diagrama_horas_minutos
 .png)
 **Poner imagen**
 1. Inicio  
