@@ -505,21 +505,17 @@ Convertir horas a minutos.
 
 ---
 
-### 🔷 Diagrama (descripción)
+### 🔷 Diagrama
 
-<img src="resources\images\diagrama_horas_minutos.png" alt="Descripción" width="500">
 
-![Texto descriptivo](resources/images/diagrama_horas_minutos.png)
-
-<img src="diagrama_horas_minutos.png" alt="Descripción" width="500">
-
-![Texto descriptivo](diagrama_horas_minutos.png)
-**Poner imagen**
 1. Inicio  
 2. Leer horas  
 3. minutos ← horas * 60  
 4. Escribir minutos  
 5. Fin  
+
+<img src="resources\images\diagrama_horas_minutos.png" alt="Descripción" width="500">
+
 
 ---
 
@@ -558,13 +554,15 @@ Calcular el promedio de dos notas.
 
 ---
 
-### 🔷 Diagrama (descripción)
+### 🔷 Diagrama 
 
 1. Inicio
 2. Leer nota1, nota2
 3. promedio ← (nota1 + nota2) / 2
 4. Escribir promedio
 5. Fin
+
+<img src="resources\images\diagrama_promedio.png" alt="Descripción" width="500">
 
 ---
 
