@@ -124,8 +124,8 @@ Calcular el doble de un número y luego sumarle 5.
 - **Entrada:** número  
 
 - **Proceso:**
-  1. Multiplicar por 2  
-  2. Sumar 5  
+  - Multiplicar por 2  
+  - Sumar 5  
 
 - **Salida:** resultado  
 
