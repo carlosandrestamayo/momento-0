@@ -144,7 +144,7 @@ Escribir resultado
 
 ## 🧠 Prueba de escritorio
 
-Si num = 4:
+Si num = `4`:
 
 | Variable  | Valor |
 |-----------|------|
@@ -185,25 +185,25 @@ Es un espacio en memoria que permite **almacenar un dato** que puede cambiar dur
 
 #### 🟢 Entero (int)
 Representa números sin decimales  
-Ejemplo: 1, 25, -10  
+Ejemplo: `1`, `25`, `-10`  
 
 ---
 
 #### 🔵 Decimal (float)
 Representa números con decimales  
-Ejemplo: 3.5, 2.75, -0.8  
+Ejemplo: `3.5`, `2.75`, `-0.8`  
 
 ---
 
 #### 🟡 Cadena (string)
 Representa texto  
-Ejemplo: "Hola", "Carlos"  
+Ejemplo: `"Hola"`, `"Carlos"`  
 
 ---
 
 #### 🔴 Booleano (boolean)
 Representa valores lógicos  
-Ejemplo: true, false  
+Ejemplo: `true`, `false`  
 
 ---
 
