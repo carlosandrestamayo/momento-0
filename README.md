@@ -1,4 +1,4 @@
-# 🧠 Plan de Mejoramiento en Programación
+# 🧠 Plan de Mejoramiento en  Fundamentos de Programación
 
 ---
 
@@ -21,17 +21,16 @@ El plan de mejoramiento se desarrolla en las siguientes etapas:
 
 1. 📄 Diagnóstico inicial (Momento 0)  
 2. 📘 Estudio guiado (taller)  
-3. 🧪 Evaluación final (Momento 1)  
-4. 📄 Retroalimentación (solucionario)  
+3. 🧪 Evaluación final   
+4. 📄 Retroalimentación   
 
 ---
 
 ## 📁 Estructura del repositorio
 
 - 📄 `diagnostico_pre.pdf` → Evaluación diagnóstica inicial  
-- 📘 `taller.md` → Material de estudio (sin soluciones)  
-- 🧪 `diagnostico_post.pdf` → Evaluación final  
-- ✅ `solucionario.pdf` → Soluciones del taller  
+- 📘 `taller.md` → Material de estudio   
+- 🧪 `diagnostico_post.pdf` → Evaluación final    
 - 📁 `recursos/` → Imágenes y materiales de apoyo  
 
 ---
@@ -51,19 +50,14 @@ El taller está organizado en los siguientes temas:
 
 ## 🚀 Instrucciones de uso
 
-1. Resolver el archivo `diagnostico_pre.pdf`  
-2. Estudiar el archivo `taller.md`  
-3. Resolver los ejercicios propuestos  
-4. Verificar respuestas con `solucionario.pdf`  
-5. Presentar el archivo `diagnostico_post.pdf`  
+1. Estudiar el archivo `taller.md`  
+2. Resolver los ejercicios propuestos en `prueba diagnostica post momento 0.pdf`
 
 ---
 
 ## ⚠️ Importante
 
 El archivo `taller.md` no incluye respuestas.
-
-Las soluciones se encuentran en el archivo `solucionario.pdf`, el cual debe utilizarse únicamente después de intentar resolver los ejercicios.
 
 ---
 
