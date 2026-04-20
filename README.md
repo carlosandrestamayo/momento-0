@@ -1,4 +1,4 @@
-# 🧠 Plan de Mejoramiento en  Fundamentos de Programación
+# 🧠 Plan de Mejoramiento Momento 0 - Algoritmos y Fundamentos de Programación
 
 ---
 
