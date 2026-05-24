@@ -346,7 +346,7 @@ FinAlgoritmo
 ## Diagrama de flujo
 
 <!-- ![Diagrama de Flujo](imagenes/diagrama_mientras_ejercicio_2.png) -->
-<img src="resources\images\diagrama_mientras_ejercicio_2.png" alt="Descripción" width="500">
+<img src="..\resources\images\diagrama_mientras_ejercicio_2.png" alt="Descripción" width="500">
 
 
 
