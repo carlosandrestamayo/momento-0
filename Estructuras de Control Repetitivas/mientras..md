@@ -4,7 +4,7 @@
 
 # 1. Introducción
 
-```markdown
+
 # Ciclo Mientras en PSeInt
 
 El ciclo Mientras es una estructura repetitiva utilizada
@@ -22,13 +22,12 @@ interactivo y construir soluciones computacionales.
 El ciclo Mientras evalúa primero una condición lógica.
 Si la condición es verdadera, ejecuta las instrucciones.
 Cuando la condición deja de cumplirse, el ciclo finaliza.
-```
+
 
 ---
 
 # 2. ¿Qué es un ciclo Mientras?
 
-```markdown
 ## ¿Qué es un ciclo Mientras?
 
 El ciclo Mientras es una estructura de control repetitiva
@@ -56,7 +55,7 @@ Esta estructura es ampliamente utilizada en:
 - Juegos
 - Automatización de procesos
 - Simulaciones computacionales
-```
+
 
 ---
 
