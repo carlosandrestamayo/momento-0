@@ -468,7 +468,7 @@ FinAlgoritmo
 
 
 <!-- ![Diagrama de Flujo](imagenes/diagrama_mientras_ejercicio_3.png) -->
-<img src="resources\images\diagrama_mientras_ejercicio_3.png" alt="Descripción" width="500">
+<img src="..\resources\images\diagrama_mientras_ejercicio_3.png" alt="Descripción" width="500">
 
 ---
 
@@ -591,7 +591,7 @@ FinAlgoritmo
 ## 8.5 Diagrama de flujo
 
 
-<img src="resources\images\diagrama_mientras_ejercicio_4.png" alt="Descripción" width="500">
+<img src="..\resources\images\diagrama_mientras_ejercicio_4.png" alt="Descripción" width="500">
 
 ---
 
@@ -709,7 +709,7 @@ FinAlgoritmo
 ## 9.5 Diagrama de flujo
 
 
-<img src="resources\images\diagrama_mientras_ejercicio_5.png" alt="Descripción" width="500">
+<img src="..\resources\images\diagrama_mientras_ejercicio_5.png" alt="Descripción" width="500">
 
 ---
 
@@ -755,4 +755,136 @@ El proceso termina cuando el contador supera 20.
 16
 18
 20
+```
+# 10. Ejercicios Propuestos
+
+---
+
+## 10.1 Ejercicio Propuesto 1
+
+## Enunciado
+
+Realizar un algoritmo en PSeInt que solicite un número
+al usuario y calcule su factorial utilizando un ciclo Mientras.
+
+### Ejemplo
+
+```txt
+Ingrese un número
+5
+
+Factorial = 120
+```
+
+---
+
+## 10.2 Ejercicio Propuesto 2
+
+## Enunciado
+
+Realizar un algoritmo que permita mostrar la secuencia
+de Fibonacci hasta la posición indicada por el usuario
+utilizando un ciclo Mientras.
+
+### Ejemplo
+
+```txt
+Ingrese cantidad de términos
+7
+
+0
+1
+1
+2
+3
+5
+8
+```
+
+---
+
+## 10.3 Ejercicio Propuesto 3
+
+## Enunciado
+
+Realizar un algoritmo que solicite números al usuario
+hasta que ingrese el valor 0.
+
+Al finalizar, el sistema debe mostrar:
+
+- cantidad de números ingresados,
+- suma total,
+- promedio.
+
+### Ejemplo
+
+```txt
+Ingrese número
+5
+
+Ingrese número
+8
+
+Ingrese número
+7
+
+Ingrese número
+0
+
+Cantidad: 3
+Suma: 20
+Promedio: 6.66
+```
+
+---
+
+## 10.4 Ejercicio Propuesto 4
+
+## Enunciado
+
+Realizar un algoritmo que permita adivinar un número secreto.
+
+El sistema debe repetir la solicitud hasta que el usuario
+ingrese el número correcto.
+
+### Requisitos
+
+- El número secreto será 25.
+- Mostrar mensaje de error si falla.
+- Mostrar mensaje de éxito cuando acierte.
+
+### Ejemplo
+
+```txt
+Ingrese número
+10
+
+Número incorrecto
+
+Ingrese número
+25
+
+Correcto
+```
+
+---
+
+## 10.5 Ejercicio Propuesto 5
+
+## Enunciado
+
+Realizar un algoritmo que muestre todos los números
+divisibles entre 3 desde el 1 hasta el 50 utilizando
+un ciclo Mientras.
+
+### Ejemplo
+
+```txt
+3
+6
+9
+12
+15
+...
+48
 ```
