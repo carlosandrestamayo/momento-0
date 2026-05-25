@@ -4,9 +4,6 @@
 
 # 1. Introducción
 
-
-<!-- ## Ciclo Mientras en PSeInt -->
-
 El ciclo Mientras es una estructura repetitiva utilizada
 para ejecutar un conjunto de instrucciones mientras una
 condición lógica sea verdadera.
@@ -23,12 +20,9 @@ El ciclo Mientras evalúa primero una condición lógica.
 Si la condición es verdadera, ejecuta las instrucciones.
 Cuando la condición deja de cumplirse, el ciclo finaliza.
 
-
 ---
 
 # 2. ¿Qué es un ciclo Mientras?
-
-<!-- ## ¿Qué es un ciclo Mientras? -->
 
 El ciclo Mientras es una estructura de control repetitiva
 que ejecuta instrucciones múltiples veces dependiendo
@@ -56,12 +50,9 @@ Esta estructura es ampliamente utilizada en:
 - Automatización de procesos
 - Simulaciones computacionales
 
-
 ---
 
 # 3. Sintaxis
-
-
 
 ```pseint
 Mientras condicion Hacer
@@ -104,8 +95,8 @@ El ciclo Mientras sigue una estructura lógica repetitiva.
 4. Actualización de variable
 5. Repetición
 
-<!-- ![Diagrama General](imagenes/diagrama_mientras_general.png) -->
 <img src="..\resources\images\diagrama_mientras_general.png" alt="Descripción" width="500">
+
 ---
 
 # 5. Ejercicio Resuelto 1
@@ -122,8 +113,6 @@ del 1 al 10 utilizando un ciclo Mientras.
 ---
 
 ## 5.2 Análisis
-
-
 
 El problema requiere repetir una instrucción varias veces.
 
@@ -145,7 +134,6 @@ El algoritmo debe:
 ## 5.3 Variables
 
 
-
 | Variable | Tipo | Descripción |
 |----------|----------|--------------|
 | cont | Entero | Controla la repetición |
@@ -153,9 +141,6 @@ El algoritmo debe:
 ---
 
 ## 5.4 Código comentado
-
-
-
 
 ```
 Algoritmo Contador
@@ -176,25 +161,15 @@ Algoritmo Contador
 
 FinAlgoritmo
 ```
-
-
 ---
 
 ## 5.5 Diagrama de flujo
 
-
-
-
-<!-- ![Diagrama de Flujo](imagenes/diagrama_mientras_ejercicio_1.png) -->
 <img src="..\resources\images\diagrama_mientras_ejercicio_1.png" alt="Descripción" width="500">
-
 
 ---
 
 ## 5.6 Explicación paso a paso
-
-
-
 
 ### Paso 1
 La variable cont inicia en 1.
@@ -222,9 +197,6 @@ El proceso se repite hasta que el cont sea mayor que 10.
 ---
 
 ## 5.7 Resultado esperado
-
-
-
 
 ```txt
 1
@@ -254,8 +226,6 @@ Realizar un algoritmo en PSeInt que solicite un número al usuario y muestre su 
 
 ## 6.2 Análisis
 
-
-
 El problema requiere repetir operaciones matemáticas varias veces.
 
 Para resolverlo se utilizará:
@@ -278,8 +248,6 @@ El algoritmo debe:
 
 ## 6.3 Variables
 
-
-
 | Variable | Tipo | Descripción |
 |----------|----------|--------------|
 | n | Entero | Número ingresado |
@@ -289,8 +257,6 @@ El algoritmo debe:
 ---
 
 ## 6.4 Código comentado
-
-
 
 ```pseint
 Algoritmo TablaMultiplicar
@@ -319,23 +285,15 @@ Algoritmo TablaMultiplicar
 
 FinAlgoritmo
 ```
-
 ---
 
 ## 6.5 Diagrama de flujo
 
-
-
-<!-- ![Diagrama de Flujo](imagenes/diagrama_mientras_ejercicio_2.png) -->
 <img src="..\resources\images\diagrama_mientras_ejercicio_2.png" alt="Descripción" width="500">
-
-
 
 ---
 
 ## 6.6 Explicación paso a paso
-
-
 
 ### Paso 1
 El usuario ingresa un número.
@@ -367,8 +325,6 @@ El proceso se repite hasta llegar al 10.
 
 ## 6.7 Resultado esperado
 
-
-
 ```txt
 Ingrese un número
 5
@@ -384,7 +340,6 @@ Ingrese un número
 5 x 9 = 45
 5 x 10 = 50
 ```
-
 ---
 
 # 7. Ejercicio Resuelto 3
@@ -400,8 +355,6 @@ Realizar un algoritmo que permita sumar los números del 1 al 5 utilizando un ci
 ---
 
 ## 7.2 Análisis
-
-
 
 El algoritmo debe acumular valores progresivamente.
 
@@ -423,8 +376,6 @@ El algoritmo debe:
 
 ## 7.3 Variables
 
-
-
 | Variable | Tipo | Descripción |
 |----------|----------|--------------|
 | contador | Entero | Controla la repetición |
@@ -433,8 +384,6 @@ El algoritmo debe:
 ---
 
 ## 7.4 Código comentado
-
-
 
 ```pseint
 Algoritmo SumaAcumulativa
@@ -460,21 +409,15 @@ Algoritmo SumaAcumulativa
 
 FinAlgoritmo
 ```
-
 ---
 
 ## 7.5 Diagrama de flujo
 
-
-
-<!-- ![Diagrama de Flujo](imagenes/diagrama_mientras_ejercicio_3.png) -->
 <img src="..\resources\images\diagrama_mientras_ejercicio_3.png" alt="Descripción" width="500">
 
 ---
 
 ## 7.6 Explicación paso a paso
-
-
 
 ### Paso 1
 Las variables se inicializan.
@@ -508,12 +451,9 @@ El ciclo termina cuando contador sea mayor que 5.
 
 ## 7.7 Resultado esperado
 
-
-
 ```txt
 La suma es: 15
 ```
-
 ---
 
 # 8. Ejercicio Resuelto 4
@@ -529,8 +469,6 @@ Realizar un algoritmo que solicite una contraseña hasta que el usuario ingrese 
 ---
 
 ## 8.2 Análisis
-
-
 
 El problema requiere validar información repetidamente.
 
@@ -551,8 +489,6 @@ El algoritmo debe:
 
 ## 8.3 Variables
 
-
-
 | Variable | Tipo | Descripción |
 |----------|----------|--------------|
 | clave | Cadena | Guarda la contraseña |
@@ -560,7 +496,6 @@ El algoritmo debe:
 ---
 
 ## 8.4 Código comentado
-
 
 ```pseint
 Algoritmo ValidacionClave
@@ -585,19 +520,15 @@ Algoritmo ValidacionClave
 
 FinAlgoritmo
 ```
-
 ---
 
 ## 8.5 Diagrama de flujo
-
 
 <img src="..\resources\images\diagrama_mientras_ejercicio_4.png" alt="Descripción" width="500">
 
 ---
 
 ## 8.6 Explicación paso a paso
-
-
 
 ### Paso 1
 La variable clave inicia vacía.
@@ -619,8 +550,6 @@ Cuando la clave sea correcta, el ciclo termina.
 
 ## 8.7 Resultado esperado
 
-
-
 ```txt
 Ingrese contraseña
 1111
@@ -633,7 +562,6 @@ Ingrese contraseña
 
 Acceso correcto
 ```
-
 ---
 
 # 9. Ejercicio Resuelto 5
@@ -649,8 +577,6 @@ Realizar un algoritmo que muestre los números pares del 2 al 20 utilizando un c
 ---
 
 ## 9.2 Análisis
-
-
 
 El algoritmo debe mostrar únicamente números pares.
 
@@ -671,8 +597,6 @@ El algoritmo debe:
 
 ## 9.3 Variables
 
-
-
 | Variable | Tipo | Descripción |
 |----------|----------|--------------|
 | contador | Entero | Controla la repetición |
@@ -680,8 +604,6 @@ El algoritmo debe:
 ---
 
 ## 9.4 Código comentado
-
-
 
 ```pseint
 Algoritmo NumerosPares
@@ -703,19 +625,15 @@ Algoritmo NumerosPares
 
 FinAlgoritmo
 ```
-
 ---
 
 ## 9.5 Diagrama de flujo
-
 
 <img src="..\resources\images\diagrama_mientras_ejercicio_5.png" alt="Descripción" width="500">
 
 ---
 
 ## 9.6 Explicación paso a paso
-
-
 
 ### Paso 1
 El contador inicia en 2.
@@ -775,7 +693,6 @@ Ingrese un número
 
 Factorial = 120
 ```
-
 ---
 
 ## 10.2 Ejercicio Propuesto 2
@@ -800,7 +717,6 @@ Ingrese cantidad de términos
 5
 8
 ```
-
 ---
 
 ## 10.3 Ejercicio Propuesto 3
@@ -835,7 +751,6 @@ Cantidad: 3
 Suma: 20
 Promedio: 6.66
 ```
-
 ---
 
 ## 10.4 Ejercicio Propuesto 4
